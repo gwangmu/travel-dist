@@ -1,0 +1,10 @@
+Zurich,714,195
+Geneva,93,655
+Basel,466,132
+Lausanne,213,535
+Bern,426,370
+Winterthur,771,160
+Luzern,658,331
+St.Gallen,933,183
+Lugano,823,735
+Biel,381,286
